@@ -47,7 +47,7 @@ func main() {
 	case res := <-ch:
 		fmt.Printf("Resposta recebida da %s:\n%+v\n", res.API, res)
 	case <-time.After(time.Second):
-		fmt.Println("Erro: timeout após 1 segundo")
+		fmt.Println("Erro: timeout")
 	}
 }
 
