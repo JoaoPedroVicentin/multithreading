@@ -1,6 +1,6 @@
 # 🔀 Multithreading com Go - Consulta de CEP
 
-Este projeto tem como objetivo a resolução do desafio prático **Multithreading** para obter informações de endereço com base em um CEP.
+Este projeto tem como objetivo a resolução do desafio prático **Multithreading** da **GoExpert** para obter informações de endereço com base em um CEP.
 
 ## 🚀 Desafio
 
