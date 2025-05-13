@@ -1,1 +1,1 @@
-# go-multithreading
+# multithreading
