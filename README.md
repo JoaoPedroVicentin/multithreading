@@ -6,8 +6,8 @@ Este projeto tem como objetivo a resolução do desafio prático **Multithreadin
 
 Fazer duas requisições simultâneas para as seguintes APIs:
 
-- [BrasilAPI](https://brasilapi.com.br/api/cep/v1/{cep})
-- [ViaCEP](https://viacep.com.br/ws/{cep}/json/)
+- [BrasilAPI](https://brasilapi.com.br/docs#tag/CEP)
+- [ViaCEP](https://viacep.com.br/)
 
 A aplicação deve:
 
@@ -27,7 +27,6 @@ cd multithreading
 2. Execute o programa (certifique-se de ter o Go instalado):
 
 ```bash
-cd server
 go run main.go
 ```
 ---
